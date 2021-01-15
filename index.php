@@ -3,7 +3,7 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
 <!--[if gt IE 8]><!-->
-<html class="no-js" lang="sk">
+<html class="no-js" lang="hu">
     <!--<![endif]-->
     <head>
         <meta charset="utf-8">
@@ -60,10 +60,11 @@
                                         SK
                                         </button>
                                         <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                                            <a class="dropdown-item" href="/en.php" id="jazyky"><img src="/images/gb.png" style="max-width:35px;"></a>
-                                            <a class="dropdown-item" href="/de.php" id="jazyky"><img src="/images/de.png" style="max-width:35px;"></a>
-                                            <a class="dropdown-item" href="/ru.php" id="jazyky"><img src="/images/ru.png" style="max-width:35px;"></a>
-                                            <a class="dropdown-item" href="/pl.php" id="jazyky"><img src="/images/pl.png" style="max-width:35px;"></a>
+                                            <a class="dropdown-item" href="http://ttranslate.sk" id="jazyky"><img src="/images/gb.png" style="max-width:35px;"></a>
+                                            <a class="dropdown-item" href="http://ttranslate.de" id="jazyky"><img src="/images/de.png" style="max-width:35px;"></a>
+                                            <a class="dropdown-item" href="http://ttranslate.sk/ru.php"><img src="/images/ru.png" style="max-width:35px;"></a>
+                                            <a class="dropdown-item" href="http://ttranslate.pl" id="jazyky"><img src="/images/pl.png" style="max-width:35px;"></a>
+                                            <a class="dropdown-item" href="http://ttranslate.cz" id="jazyky"><img src="/images/cz.png" style="max-width:35px;"></a>
                                         </div>
                                     </div>
                                 </li>
